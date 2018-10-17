@@ -1,0 +1,2645 @@
+Time:1		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:27		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:43		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:59		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:76		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:92		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:108		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:125		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:143		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:159		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:176		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:192		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:209		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:226		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:242		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:259		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:276		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:293		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:309		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:326		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:343		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:360		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:377		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:394		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:410		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:426		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:442		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:459		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:476		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:493		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:509		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:526		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:543		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:559		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:576		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:593		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:609		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:626		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:642		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:658		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:676		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:693		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:709		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:726		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:742		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:759		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:776		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:793		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:809		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:826		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:843		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:859		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:876		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:892		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:909		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:926		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:942		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:958		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:975		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:992		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1008		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1025		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1042		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1059		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1076		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1093		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1109		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1125		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1142		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1159		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1176		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1192		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1209		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1226		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1243		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1259		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1276		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1293		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1309		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1325		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1342		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1359		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1375		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1392		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1410		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1425		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1442		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1459		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1476		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1492		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1508		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1524		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1543		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1559		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1576		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1592		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1609		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1625		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1643		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1659		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1675		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1692		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1709		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1725		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1742		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1759		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1775		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1792		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1810		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1826		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1843		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1859		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1875		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1893		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1910		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1925		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1943		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1959		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1975		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:1992		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2009		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2026		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2043		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2058		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2075		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2091		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2108		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2124		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2141		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2157		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2175		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2193		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2209		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2226		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2242		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2259		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2275		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2293		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2310		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2325		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2342		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2359		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2375		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2392		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2409		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2425		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2442		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2459		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2475		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2493		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2509		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2525		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2542		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2559		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2575		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2592		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2609		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2625		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2642		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2658		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2675		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2692		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2708		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2725		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2742		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2759		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2776		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2793		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2809		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2825		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2842		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2858		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2875		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2893		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2909		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2926		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2942		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2958		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2975		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:2992		Strategy:1
+Train 1:  Position:(540,300)	Direction:clockwise	Status:pause-private track
+Train 2:  Position:(540,180)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(300,180)	Direction:clockwise	Status:pause-private track
+
+Time:3008		Strategy:1
+Train 1:  Position:(539,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,179)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(301,180)	Direction:clockwise	Status:run-private track
+
+Time:3026		Strategy:1
+Train 1:  Position:(538,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,178)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(302,180)	Direction:clockwise	Status:run-private track
+
+Time:3042		Strategy:1
+Train 1:  Position:(537,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,177)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(303,180)	Direction:clockwise	Status:run-private track
+
+Time:3059		Strategy:1
+Train 1:  Position:(536,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,176)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(304,180)	Direction:clockwise	Status:run-private track
+
+Time:3075		Strategy:1
+Train 1:  Position:(535,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,175)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(305,180)	Direction:clockwise	Status:run-private track
+
+Time:3092		Strategy:1
+Train 1:  Position:(534,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,174)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(306,180)	Direction:clockwise	Status:run-private track
+
+Time:3108		Strategy:1
+Train 1:  Position:(533,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,173)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(307,180)	Direction:clockwise	Status:run-private track
+
+Time:3124		Strategy:1
+Train 1:  Position:(532,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,172)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(308,180)	Direction:clockwise	Status:run-private track
+
+Time:3141		Strategy:1
+Train 1:  Position:(531,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,171)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(309,180)	Direction:clockwise	Status:run-private track
+
+Time:3159		Strategy:1
+Train 1:  Position:(530,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,170)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(310,180)	Direction:clockwise	Status:run-private track
+
+Time:3176		Strategy:1
+Train 1:  Position:(529,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,169)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(311,180)	Direction:clockwise	Status:run-private track
+
+Time:3191		Strategy:1
+Train 1:  Position:(528,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,168)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(312,180)	Direction:clockwise	Status:run-private track
+
+Time:3207		Strategy:1
+Train 1:  Position:(527,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,167)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(313,180)	Direction:clockwise	Status:run-private track
+
+Time:3224		Strategy:1
+Train 1:  Position:(526,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,166)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(314,180)	Direction:clockwise	Status:run-private track
+
+Time:3240		Strategy:1
+Train 1:  Position:(525,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,165)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(315,180)	Direction:clockwise	Status:run-private track
+
+Time:3257		Strategy:1
+Train 1:  Position:(524,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,164)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(316,180)	Direction:clockwise	Status:run-private track
+
+Time:3274		Strategy:1
+Train 1:  Position:(523,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,163)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(317,180)	Direction:clockwise	Status:run-private track
+
+Time:3290		Strategy:1
+Train 1:  Position:(522,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,162)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(318,180)	Direction:clockwise	Status:run-private track
+
+Time:3307		Strategy:1
+Train 1:  Position:(521,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,161)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(319,180)	Direction:clockwise	Status:run-private track
+
+Time:3325		Strategy:1
+Train 1:  Position:(520,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,160)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(320,180)	Direction:clockwise	Status:run-private track
+
+Time:3341		Strategy:1
+Train 1:  Position:(519,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,159)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(321,180)	Direction:clockwise	Status:run-private track
+
+Time:3359		Strategy:1
+Train 1:  Position:(518,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,158)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(322,180)	Direction:clockwise	Status:run-private track
+
+Time:3375		Strategy:1
+Train 1:  Position:(517,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,157)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(323,180)	Direction:clockwise	Status:run-private track
+
+Time:3391		Strategy:1
+Train 1:  Position:(516,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,156)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(324,180)	Direction:clockwise	Status:run-private track
+
+Time:3408		Strategy:1
+Train 1:  Position:(515,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,155)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(325,180)	Direction:clockwise	Status:run-private track
+
+Time:3425		Strategy:1
+Train 1:  Position:(514,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,154)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(326,180)	Direction:clockwise	Status:run-private track
+
+Time:3442		Strategy:1
+Train 1:  Position:(513,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,153)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(327,180)	Direction:clockwise	Status:run-private track
+
+Time:3458		Strategy:1
+Train 1:  Position:(512,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,152)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(328,180)	Direction:clockwise	Status:run-private track
+
+Time:3474		Strategy:1
+Train 1:  Position:(511,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,151)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(329,180)	Direction:clockwise	Status:run-private track
+
+Time:3492		Strategy:1
+Train 1:  Position:(510,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,150)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(330,180)	Direction:clockwise	Status:run-private track
+
+Time:3508		Strategy:1
+Train 1:  Position:(509,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,149)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(331,180)	Direction:clockwise	Status:run-private track
+
+Time:3525		Strategy:1
+Train 1:  Position:(508,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,148)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(332,180)	Direction:clockwise	Status:run-private track
+
+Time:3541		Strategy:1
+Train 1:  Position:(507,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,147)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(333,180)	Direction:clockwise	Status:run-private track
+
+Time:3559		Strategy:1
+Train 1:  Position:(506,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,146)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(334,180)	Direction:clockwise	Status:run-private track
+
+Time:3576		Strategy:1
+Train 1:  Position:(505,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,145)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(335,180)	Direction:clockwise	Status:run-private track
+
+Time:3592		Strategy:1
+Train 1:  Position:(504,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,144)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(336,180)	Direction:clockwise	Status:run-private track
+
+Time:3609		Strategy:1
+Train 1:  Position:(503,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,143)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(337,180)	Direction:clockwise	Status:run-private track
+
+Time:3627		Strategy:1
+Train 1:  Position:(502,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,142)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(338,180)	Direction:clockwise	Status:run-private track
+
+Time:3643		Strategy:1
+Train 1:  Position:(501,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,141)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(339,180)	Direction:clockwise	Status:run-private track
+
+Time:3659		Strategy:1
+Train 1:  Position:(500,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,140)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(340,180)	Direction:clockwise	Status:run-private track
+
+Time:3675		Strategy:1
+Train 1:  Position:(499,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,139)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(341,180)	Direction:clockwise	Status:run-private track
+
+Time:3692		Strategy:1
+Train 1:  Position:(498,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,138)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(342,180)	Direction:clockwise	Status:run-private track
+
+Time:3708		Strategy:1
+Train 1:  Position:(497,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,137)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(343,180)	Direction:clockwise	Status:run-private track
+
+Time:3727		Strategy:1
+Train 1:  Position:(496,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,136)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(344,180)	Direction:clockwise	Status:run-private track
+
+Time:3744		Strategy:1
+Train 1:  Position:(495,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,135)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(345,180)	Direction:clockwise	Status:run-private track
+
+Time:3759		Strategy:1
+Train 1:  Position:(494,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,134)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(346,180)	Direction:clockwise	Status:run-private track
+
+Time:3776		Strategy:1
+Train 1:  Position:(493,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,133)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(347,180)	Direction:clockwise	Status:run-private track
+
+Time:3794		Strategy:1
+Train 1:  Position:(492,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,132)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(348,180)	Direction:clockwise	Status:run-private track
+
+Time:3809		Strategy:1
+Train 1:  Position:(491,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,131)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(349,180)	Direction:clockwise	Status:run-private track
+
+Time:3825		Strategy:1
+Train 1:  Position:(490,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,130)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(350,180)	Direction:clockwise	Status:run-private track
+
+Time:3843		Strategy:1
+Train 1:  Position:(489,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,129)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(351,180)	Direction:clockwise	Status:run-private track
+
+Time:3859		Strategy:1
+Train 1:  Position:(488,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,128)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(352,180)	Direction:clockwise	Status:run-private track
+
+Time:3875		Strategy:1
+Train 1:  Position:(487,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,127)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(353,180)	Direction:clockwise	Status:run-private track
+
+Time:3893		Strategy:1
+Train 1:  Position:(486,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,126)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(354,180)	Direction:clockwise	Status:run-private track
+
+Time:3908		Strategy:1
+Train 1:  Position:(485,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,125)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(355,180)	Direction:clockwise	Status:run-private track
+
+Time:3925		Strategy:1
+Train 1:  Position:(484,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,124)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(356,180)	Direction:clockwise	Status:run-private track
+
+Time:3942		Strategy:1
+Train 1:  Position:(483,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,123)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(357,180)	Direction:clockwise	Status:run-private track
+
+Time:3959		Strategy:1
+Train 1:  Position:(482,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,122)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(358,180)	Direction:clockwise	Status:run-private track
+
+Time:3975		Strategy:1
+Train 1:  Position:(481,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,121)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(359,180)	Direction:clockwise	Status:run-private track
+
+Time:3993		Strategy:1
+Train 1:  Position:(480,300)	Direction:clockwise	Status:run-private track
+Train 2:  Position:(540,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(360,180)	Direction:clockwise	Status:run-private track
+
+Time:4011		Strategy:1
+Train 1:  Position:(479,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(541,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(361,180)	Direction:clockwise	Status:run-private track
+
+Time:4026		Strategy:1
+Train 1:  Position:(478,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(542,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(362,180)	Direction:clockwise	Status:run-private track
+
+Time:4043		Strategy:1
+Train 1:  Position:(477,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(543,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(363,180)	Direction:clockwise	Status:run-private track
+
+Time:4058		Strategy:1
+Train 1:  Position:(476,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(544,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(364,180)	Direction:clockwise	Status:run-private track
+
+Time:4079		Strategy:1
+Train 1:  Position:(475,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(545,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(365,180)	Direction:clockwise	Status:run-private track
+
+Time:4093		Strategy:1
+Train 1:  Position:(474,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(546,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(366,180)	Direction:clockwise	Status:run-private track
+
+Time:4108		Strategy:1
+Train 1:  Position:(473,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(547,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(367,180)	Direction:clockwise	Status:run-private track
+
+Time:4125		Strategy:1
+Train 1:  Position:(472,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(548,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(368,180)	Direction:clockwise	Status:run-private track
+
+Time:4143		Strategy:1
+Train 1:  Position:(471,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(549,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(369,180)	Direction:clockwise	Status:run-private track
+
+Time:4159		Strategy:1
+Train 1:  Position:(470,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(550,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(370,180)	Direction:clockwise	Status:run-private track
+
+Time:4175		Strategy:1
+Train 1:  Position:(469,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(551,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(371,180)	Direction:clockwise	Status:run-private track
+
+Time:4192		Strategy:1
+Train 1:  Position:(468,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(552,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(372,180)	Direction:clockwise	Status:run-private track
+
+Time:4210		Strategy:1
+Train 1:  Position:(467,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(553,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(373,180)	Direction:clockwise	Status:run-private track
+
+Time:4225		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(554,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(374,180)	Direction:clockwise	Status:run-private track
+
+Time:4241		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(555,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(375,180)	Direction:clockwise	Status:run-private track
+
+Time:4259		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(556,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(376,180)	Direction:clockwise	Status:run-private track
+
+Time:4275		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(557,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(377,180)	Direction:clockwise	Status:run-private track
+
+Time:4292		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(558,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(378,180)	Direction:clockwise	Status:run-private track
+
+Time:4308		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(559,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(379,180)	Direction:clockwise	Status:run-private track
+
+Time:4323		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(560,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(380,180)	Direction:clockwise	Status:run-private track
+
+Time:4340		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(561,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(381,180)	Direction:clockwise	Status:run-private track
+
+Time:4357		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(562,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(382,180)	Direction:clockwise	Status:run-private track
+
+Time:4373		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(563,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(383,180)	Direction:clockwise	Status:run-private track
+
+Time:4391		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(564,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(384,180)	Direction:clockwise	Status:run-private track
+
+Time:4407		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(565,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(385,180)	Direction:clockwise	Status:run-private track
+
+Time:4424		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(566,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(386,180)	Direction:clockwise	Status:run-private track
+
+Time:4441		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(567,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(387,180)	Direction:clockwise	Status:run-private track
+
+Time:4457		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(568,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(388,180)	Direction:clockwise	Status:run-private track
+
+Time:4474		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(569,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(389,180)	Direction:clockwise	Status:run-private track
+
+Time:4491		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(570,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(390,180)	Direction:clockwise	Status:run-private track
+
+Time:4508		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(571,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(391,180)	Direction:clockwise	Status:run-private track
+
+Time:4526		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(572,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(392,180)	Direction:clockwise	Status:run-private track
+
+Time:4542		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(573,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(393,180)	Direction:clockwise	Status:run-private track
+
+Time:4558		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(574,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(394,180)	Direction:clockwise	Status:run-private track
+
+Time:4575		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(575,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(395,180)	Direction:clockwise	Status:run-private track
+
+Time:4591		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(576,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(396,180)	Direction:clockwise	Status:run-private track
+
+Time:4609		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(577,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(397,180)	Direction:clockwise	Status:run-private track
+
+Time:4624		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(578,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(398,180)	Direction:clockwise	Status:run-private track
+
+Time:4641		Strategy:1
+Train 1:  Position:(466,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(579,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(399,180)	Direction:clockwise	Status:run-private track
+
+Time:4658		Strategy:1
+Train 1:  Position:(465,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(580,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(400,180)	Direction:clockwise	Status:run-private track
+
+Time:4675		Strategy:1
+Train 1:  Position:(464,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(581,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(401,180)	Direction:clockwise	Status:run-private track
+
+Time:4691		Strategy:1
+Train 1:  Position:(463,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(582,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(402,180)	Direction:clockwise	Status:run-private track
+
+Time:4707		Strategy:1
+Train 1:  Position:(462,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(583,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(403,180)	Direction:clockwise	Status:run-private track
+
+Time:4724		Strategy:1
+Train 1:  Position:(461,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(584,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(404,180)	Direction:clockwise	Status:run-private track
+
+Time:4740		Strategy:1
+Train 1:  Position:(460,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(585,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(405,180)	Direction:clockwise	Status:run-private track
+
+Time:4757		Strategy:1
+Train 1:  Position:(459,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(586,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(406,180)	Direction:clockwise	Status:run-private track
+
+Time:4773		Strategy:1
+Train 1:  Position:(458,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(587,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(407,180)	Direction:clockwise	Status:run-private track
+
+Time:4792		Strategy:1
+Train 1:  Position:(457,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(588,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(408,180)	Direction:clockwise	Status:run-private track
+
+Time:4808		Strategy:1
+Train 1:  Position:(456,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(589,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(409,180)	Direction:clockwise	Status:run-private track
+
+Time:4825		Strategy:1
+Train 1:  Position:(455,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(590,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(410,180)	Direction:clockwise	Status:run-private track
+
+Time:4841		Strategy:1
+Train 1:  Position:(454,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(591,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(411,180)	Direction:clockwise	Status:run-private track
+
+Time:4857		Strategy:1
+Train 1:  Position:(453,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(592,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(412,180)	Direction:clockwise	Status:run-private track
+
+Time:4875		Strategy:1
+Train 1:  Position:(452,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(593,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(413,180)	Direction:clockwise	Status:run-private track
+
+Time:4891		Strategy:1
+Train 1:  Position:(451,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(594,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(414,180)	Direction:clockwise	Status:run-private track
+
+Time:4908		Strategy:1
+Train 1:  Position:(450,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(595,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(415,180)	Direction:clockwise	Status:run-private track
+
+Time:4924		Strategy:1
+Train 1:  Position:(449,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(596,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(416,180)	Direction:clockwise	Status:run-private track
+
+Time:4941		Strategy:1
+Train 1:  Position:(448,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(597,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(417,180)	Direction:clockwise	Status:run-private track
+
+Time:4957		Strategy:1
+Train 1:  Position:(447,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(598,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(418,180)	Direction:clockwise	Status:run-private track
+
+Time:4975		Strategy:1
+Train 1:  Position:(446,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(599,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(419,180)	Direction:clockwise	Status:run-private track
+
+Time:4991		Strategy:1
+Train 1:  Position:(445,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(600,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5008		Strategy:1
+Train 1:  Position:(444,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(601,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5024		Strategy:1
+Train 1:  Position:(443,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(602,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5041		Strategy:1
+Train 1:  Position:(442,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(603,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5057		Strategy:1
+Train 1:  Position:(441,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(604,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5074		Strategy:1
+Train 1:  Position:(440,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(605,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5091		Strategy:1
+Train 1:  Position:(439,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(606,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5108		Strategy:1
+Train 1:  Position:(438,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(607,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5124		Strategy:1
+Train 1:  Position:(437,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(608,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5141		Strategy:1
+Train 1:  Position:(436,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(609,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5158		Strategy:1
+Train 1:  Position:(435,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(610,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5174		Strategy:1
+Train 1:  Position:(434,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(611,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5191		Strategy:1
+Train 1:  Position:(433,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(612,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5207		Strategy:1
+Train 1:  Position:(432,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(613,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5224		Strategy:1
+Train 1:  Position:(431,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(614,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5242		Strategy:1
+Train 1:  Position:(430,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(615,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5259		Strategy:1
+Train 1:  Position:(429,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(616,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5275		Strategy:1
+Train 1:  Position:(428,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(617,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5292		Strategy:1
+Train 1:  Position:(427,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(618,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5310		Strategy:1
+Train 1:  Position:(426,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(619,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5328		Strategy:1
+Train 1:  Position:(425,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(620,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5341		Strategy:1
+Train 1:  Position:(424,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(621,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5360		Strategy:1
+Train 1:  Position:(423,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(622,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5374		Strategy:1
+Train 1:  Position:(422,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(623,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5393		Strategy:1
+Train 1:  Position:(421,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(624,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5408		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:run-station
+Train 2:  Position:(625,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5424		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(626,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5440		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(627,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5457		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(628,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5473		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(629,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5490		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(630,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5507		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(631,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5523		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(632,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5542		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(633,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5558		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(634,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5574		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(635,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5591		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(636,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5608		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(637,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5624		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(638,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5640		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(639,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5658		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(640,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5675		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(641,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5692		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(642,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5707		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(643,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5724		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(644,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5741		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(645,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5757		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(646,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5773		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5790		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5807		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5824		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5840		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5856		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5873		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5890		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5908		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5924		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5941		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5957		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5974		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:5990		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6008		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6024		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6041		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6057		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(647,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6076		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(648,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6091		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(649,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6107		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(650,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6124		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(651,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6140		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(652,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6156		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(653,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6173		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(654,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6190		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(655,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6207		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(656,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6224		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(657,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6240		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(658,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6257		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(659,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6275		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(660,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6291		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(661,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6308		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(662,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6324		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(663,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6341		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(664,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6359		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(665,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6374		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(666,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6390		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(667,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6408		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(668,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6424		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(669,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6442		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(670,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6457		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(671,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6474		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(672,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6492		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(673,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6509		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(674,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6523		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(675,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6540		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(676,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6556		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(677,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6573		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(678,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6589		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(679,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6606		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(680,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6625		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(681,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6640		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(682,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6656		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(683,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6673		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(684,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6690		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(685,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6706		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(686,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6724		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(687,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6740		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(688,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6756		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(689,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6774		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(690,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6791		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(691,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6807		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(692,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6824		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(693,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6841		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(694,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6857		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(695,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6874		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(696,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6891		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(697,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6907		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(698,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6924		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(699,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6940		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(700,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6957		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(701,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6973		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(702,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:6990		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(703,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:7007		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(704,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:7023		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:run-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:run-private track
+
+Time:7040		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7057		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7074		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7090		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7106		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7122		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7139		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7156		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7172		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7190		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7206		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7222		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7240		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7257		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7273		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7290		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7307		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7323		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7340		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7356		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7373		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7390		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7407		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7423		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7440		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7456		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7474		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7490		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7507		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7524		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7540		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7557		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7574		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:7591		Strategy:1
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8467		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8478		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8489		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8506		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8523		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8540		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8557		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8572		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8589		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8606		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8623		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8640		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8656		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8673		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8689		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8706		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8724		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8740		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8756		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8772		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8788		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8805		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8822		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8838		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8855		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8872		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8889		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8906		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8923		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8939		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8956		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8974		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:8989		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9006		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9023		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9039		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9055		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9073		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9090		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9107		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9123		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9141		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9157		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9173		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9191		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9207		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9224		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9241		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9257		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9274		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9291		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9307		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9325		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9341		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9356		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9374		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9391		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9408		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9423		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9442		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9459		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9474		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9490		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9506		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9522		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9539		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9556		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9573		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9589		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9606		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9623		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9639		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
+Time:9656		Strategy:3
+Train 1:  Position:(420,300)	Direction:clockwise	Status:pause-station
+Train 2:  Position:(705,120)	Direction:clockwise	Status:pause-private track
+Train 3:  Position:(420,180)	Direction:clockwise	Status:pause-private track
+
